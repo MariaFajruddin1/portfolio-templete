@@ -6,7 +6,7 @@ export default function Contact() {
             <div className="greenBg text-black">
                 <div className="container border-t-3 py-15 flex flex-wrap gap-10 justify-around">
                     <div className="lg:w-[45%]">
-                        <h1 className="lg:text-7xl text-5xl lexend-deca pt-5">Let's Discuss Your Project, Today!</h1>
+                        <h1 className="lg:text-7xl text-5xl lexend-deca pt-5">Let’s Discuss Your Project, Today!</h1>
                         <p className="manrope text-4xl pt-6">Contact me to discuss how I can elevate your brand. Simply fill out this form to get started.</p>
                     </div>
                     <div className="lg:w-[45%]">
